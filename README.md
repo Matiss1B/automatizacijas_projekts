@@ -54,10 +54,12 @@ Lietotājs var darbināt galveno `main.py` failu, kurš sniegs komandrindas tipa
 
 - Sūtīšanas laikā tiek automātiski pieslēgts `inbox.lv` konts un simulēta visu lauku aizpildīšana, tostarp adresāts, tēma, saturs un sūtīšanas klikšķis.
 - Programma pārliecinās, ka netiek sūtīts atkārtoti uz adresēm, kurām jau ir norādīts sūtīšanas datums.
+  
 ### Piezīmes
 
 - E-pastu saraksta failā kas atrodas mapē `address_lists/`, nepieciešamais formāts: katra e-pasta adrese savā rindā, pretēji tiks izvadīts kļūdu ziņojums.
 - Mapē `content/` tiek glabāti e-pasta satura faili, katra faila nosaukums attiecīgi ir sūtāmā e-pasta temats, bet faila saturs ir e-pasta teksts.
+- Ja tiek mainīts saturs kādā no failiem kas atrodas mapē `address_lists/` vai `content/`, kamēr programma darbojas, nepieciešams atkārtoti iedarbināt programmu, lai veiktu manipulācijas ar jauno saturu.
 
 ## Sistēmas prasības
 
