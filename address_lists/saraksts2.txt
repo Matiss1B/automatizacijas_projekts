@@ -1,0 +1,7 @@
+alice.smith@example.com
+bob.johnson@example.net
+charlie.brown@sample.org
+diana.white@testing.com
+eve.green@randommail.co
+
+
