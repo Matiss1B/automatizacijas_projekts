@@ -20,6 +20,7 @@ Projektā tiek izmantotas šādas bibliotēkas:
 - **`selenium`** – automatizēta darbība tīmekļa pārlūkprogrammā.
 - **`time`** – paužu ievietošana starp darbībām pārlūkā, lai nodrošinātu stabilu darbību.
 - **`LinkedList` (pašdefinēta klase)** – e-pasta adresātu saraksta strukturēta glabāšana un apstrāde, nodrošinot iterāciju un manipulācijas ar datiem.
+- **`re`** - nodrošina iespēju pārbaudīt, meklēt un apstrādāt teksta virknes pēc noteiktiem rakstu paraugiem.
 
 ## Izmantotās datu struktūras
 
