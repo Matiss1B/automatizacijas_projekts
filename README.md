@@ -56,7 +56,7 @@ Lietotājs var darbināt galveno `main.py` failu, kurš sniegs komandrindas tipa
 - Programma pārliecinās, ka netiek sūtīts atkārtoti uz adresēm, kurām jau ir norādīts sūtīšanas datums.
 ### Piezīmes
 
-- e-pastu saraksta failā kas atrodas mapē `address_lists/`, nepieciešamais formāts: katra e-pasta adrese savā rindā, pretēji tiks izvadīts kļūdu ziņojums.
+- E-pastu saraksta failā kas atrodas mapē `address_lists/`, nepieciešamais formāts: katra e-pasta adrese savā rindā, pretēji tiks izvadīts kļūdu ziņojums.
 - Mapē `content/` tiek glabāti e-pasta satura faili, katra faila nosaukums attiecīgi ir sūtāmā e-pasta temats, bet faila saturs ir e-pasta teksts.
 
 ## Sistēmas prasības
