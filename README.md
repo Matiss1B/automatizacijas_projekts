@@ -9,7 +9,7 @@
 - e-pasta izsūtīšanu, izmantojot tīmekļa pārlūkprogrammu ar Selenium;
 - statusa atzīmēšanu Excel failā par to, kuriem adresātiem e-pasts jau ir nosūtīts;
 - iespēju pārvaldīt e-pasta sarakstu kā paša definētu datu struktūru – saistīto sarakstu (`LinkedList`).
-# Īss projekta darbības video
+### Īss projekta darbības video
 - Saite: `https://youtu.be/UKSnlbA_auM`
 
 ## Izmantotās Python bibliotēkas un to pielietojums
