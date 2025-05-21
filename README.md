@@ -29,7 +29,7 @@ Projektā tiek izmantotas šādas bibliotēkas:
 Projektā izmantota paša izveidota saistītā saraksta (linked list) struktūra.
 Šīs struktūras izmantošana ļauj efektīvi veikt darbības ar adresātu sarakstu, piemēram, pievienošanu, iterēšanu un pārbaudīšanu.
 
-## Programmatūras izmantošana un metpdes
+## Programmatūras izmantošana un metodes
 
 Lietotājs var darbināt galveno `main.py` failu, kurš sniegs komandrindas tipa saskarni ar šādiem ievades variantiem (komandām):
 
